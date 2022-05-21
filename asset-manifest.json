@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f8930578.chunk.css",
+    "main.js": "./static/js/main.118fcdad.chunk.js",
+    "main.js.map": "./static/js/main.118fcdad.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8cb3de10.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8cb3de10.js.map",
+    "static/js/2.b21f3dae.chunk.js": "./static/js/2.b21f3dae.chunk.js",
+    "static/js/2.b21f3dae.chunk.js.map": "./static/js/2.b21f3dae.chunk.js.map",
+    "static/js/3.85375e07.chunk.js": "./static/js/3.85375e07.chunk.js",
+    "static/js/3.85375e07.chunk.js.map": "./static/js/3.85375e07.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.f8930578.chunk.css.map": "./static/css/main.f8930578.chunk.css.map",
+    "static/js/2.b21f3dae.chunk.js.LICENSE.txt": "./static/js/2.b21f3dae.chunk.js.LICENSE.txt",
+    "static/media/Amulet_icon@2x.78f0a41b.png": "./static/media/Amulet_icon@2x.78f0a41b.png",
+    "static/media/Myso_icon@2x.4c9de297.png": "./static/media/Myso_icon@2x.4c9de297.png",
+    "static/media/Nsure_logo_5@2x.c8c2aed1.png": "./static/media/Nsure_logo_5@2x.c8c2aed1.png",
+    "static/media/Ola_Guild_Game _logo@2x.1eb48e3e.png": "./static/media/Ola_Guild_Game _logo@2x.1eb48e3e.png",
+    "static/media/Radiccle_logo_3@2x.6c38d453.png": "./static/media/Radiccle_logo_3@2x.6c38d453.png",
+    "static/media/Ren_logo_4@2x.be20364f.png": "./static/media/Ren_logo_4@2x.be20364f.png",
+    "static/media/Unfi_logo@2x.ecae1c01.png": "./static/media/Unfi_logo@2x.ecae1c01.png",
+    "static/media/green-color.34629528.png": "./static/media/green-color.34629528.png",
+    "static/media/nftcompanyTransparent.da450ccd.png": "./static/media/nftcompanyTransparent.da450ccd.png",
+    "static/media/index.css": "./static/media/notebook_bg.c814a201.png",
+    "static/media/nuio_logo@2x.f1419a7e.png": "./static/media/nuio_logo@2x.f1419a7e.png",
+    "static/media/numio_logo@2x.e98f79f4.png": "./static/media/numio_logo@2x.e98f79f4.png",
+    "static/media/polkadot_logo_7@2x.584deac4.png": "./static/media/polkadot_logo_7@2x.584deac4.png",
+    "static/media/top_bg.mp4": "./static/media/top_bg.149cd8b0.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cb3de10.js",
+    "static/js/2.b21f3dae.chunk.js",
+    "static/css/main.f8930578.chunk.css",
+    "static/js/main.118fcdad.chunk.js"
+  ]
+}
