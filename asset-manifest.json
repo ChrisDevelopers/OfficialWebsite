@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.ee2140e2.chunk.css",
-    "main.js": "./static/js/main.c257c2dc.chunk.js",
-    "main.js.map": "./static/js/main.c257c2dc.chunk.js.map",
+    "main.js": "./static/js/main.687a67b4.chunk.js",
+    "main.js.map": "./static/js/main.687a67b4.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.0bc9b0ae.js",
     "runtime-main.js.map": "./static/js/runtime-main.0bc9b0ae.js.map",
     "static/js/2.ab90cf7e.chunk.js": "./static/js/2.ab90cf7e.chunk.js",
@@ -20,6 +20,7 @@
     "static/media/Ren_logo_4@2x.89195589.png": "./static/media/Ren_logo_4@2x.89195589.png",
     "static/media/Unfi_logo@2x.1439b952.png": "./static/media/Unfi_logo@2x.1439b952.png",
     "static/media/green-color.e5fbdb98.png": "./static/media/green-color.e5fbdb98.png",
+    "static/media/homt_bg.87549699.jpg": "./static/media/homt_bg.87549699.jpg",
     "static/media/hopr_logo_6@2x.44611e78.png": "./static/media/hopr_logo_6@2x.44611e78.png",
     "static/media/mov_phone.mp4": "./static/media/mov_phone.70a8a1a5.mp4",
     "static/media/nftcompanyTransparent.e5e17387.png": "./static/media/nftcompanyTransparent.e5e17387.png",
@@ -35,6 +36,6 @@
     "static/js/runtime-main.0bc9b0ae.js",
     "static/js/2.ab90cf7e.chunk.js",
     "static/css/main.ee2140e2.chunk.css",
-    "static/js/main.c257c2dc.chunk.js"
+    "static/js/main.687a67b4.chunk.js"
   ]
 }
